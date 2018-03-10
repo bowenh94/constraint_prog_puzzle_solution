@@ -1,13 +1,4 @@
 # constraint_prog_puzzle_solution
-  File     : proj2.pl
-  Author   : Bowen Huang
-  Origin   : Fri Oct 13 13:09 2017
-  Purpose  : Provide puzzle solution program to solve 2*2, 3*3 and 4*4
-             math puzzles.
-  Reference: proj2_test.pl by Peter Schachte 2014 for test case used
-             in this project.
-             clpfd by Markus Triska for constraint programming in Prolog
-
   Provide puzzle_solution function to solve math puzzles. Given puzzle
   is a matrix with headings rows and columns contains constraints for
   our filling range. In our program, provide methods to satisfy following
